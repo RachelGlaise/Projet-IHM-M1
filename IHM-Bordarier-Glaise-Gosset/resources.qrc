@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>visutab_en.qm</file>
+        <file>interface.svg</file>
+    </qresource>
+</RCC>
